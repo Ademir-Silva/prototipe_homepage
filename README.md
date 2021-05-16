@@ -1,4 +1,4 @@
-<p align="center"><img src="./public/site/assets/img/escolaDoVinho.png" width="400" style="background: black;"></p>
+<p align="center"><img src="./public/site/assets/img/escolaDoVinho.png" width="200" style="background: black;"></p>
 
 ### Créditos e Licensas
 
