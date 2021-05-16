@@ -711,7 +711,8 @@
       <div class="copyright">
         &copy; Copyright <strong><span>Escola Do Vinho</span></strong> 2021.
       </div>
-      <a href="#" target="_blank">Créditos e Licenças de uso</a>
+      <a href="#" target="_blank">Créditos e Licenças de uso</a> <br>
+      <a href="#">Acesso Administrativo</a>
   {{-- <div class="credits">
         <!-- All the links in the footer should remain intact. -->
         <!-- You can delete the links only if you purchased the pro version. -->
