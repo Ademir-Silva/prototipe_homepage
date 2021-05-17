@@ -334,7 +334,7 @@
               <div class="address">
                 <i class="bi bi-geo-alt"></i>
                 <h4>Localização:</h4>
-                <p>A108 Adam Street, New York, NY 535022</p>
+                <p>IF Sertão - Campus Zona Rural, Petrolina - PE</p>
               </div>
 
               <div class="email">
@@ -346,7 +346,7 @@
               <div class="phone">
                 <i class="bi bi-phone"></i>
                 <h4>Telefone:</h4>
-                <p>+1 5589 55488 55s</p>
+                <p>(87) 2101-8050</p>
               </div>
 
             </div>
